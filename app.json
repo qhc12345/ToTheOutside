@@ -1,6 +1,6 @@
 {
     "name": "OverGFW",
-    "description": "Use vmess protocol to over the GFW",
+    "description": "over the GFW",
     "keywords": ["GFW"],
     "env": {
         "ID": {
