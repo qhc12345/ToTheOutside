@@ -1,7 +1,7 @@
 {
-    "name": "OverGFW",
-    "description": "over the GFW",
-    "keywords": ["GFW"],
+    "name": "ToTheOutside",
+    "description": "ToTheOutside",
+    "keywords": ["Outside"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -13,6 +13,6 @@
         }
     },
     "website": "https://ibcl.us",
-    "repository": "https://github.com/ShiinaKaze/OverGFW",
+    "repository": "https://github.com/ShiinaKaze/ToTheOutside",
     "stack": "container"
 }
